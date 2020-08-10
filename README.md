@@ -37,7 +37,7 @@ The previous analysis showed the following differences for Thomas High School: A
 
 ![School_Type_Scores](Resources/school_type.png)
 
->Between District and Charter schools, the Charter school had a difference in the Math, Reading and Overall categories. Passing Math was 94%, Passing Readin was 97% and Overall Passing was 90%
+>Between District and Charter schools, the Charter school had a difference in the Math, Reading and Overall categories. Passing Math was 94%, Passing Readin was 97% and Overall Passing was 90%.
 
 
 ## Summary
@@ -54,4 +54,4 @@ The four major changes in the school district analysis after taking out the inac
 
 3. When it comes to school size, the medium-sized schools have dropped in all percentages as shown in the table containing the school size information.
 
-4. Under school types, charter schools' percentages have also dropped overall.
+4. Under school types, the charter schools look like they have also been affected with their percentages in Math, Reading and Overall decreasing.
